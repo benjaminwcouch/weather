@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color:rgb(0, 0, 112);
+    background-image: url("w.jpg");
+    background-size: 1600px;
+}
+
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: #daddcb;
+    font-family: sans-serif;
+}
+
+#map {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+  }
